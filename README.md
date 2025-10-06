@@ -76,7 +76,7 @@ L'interface sera disponible sur http://localhost:8501
 
 ## Captures d'écran
 
-Pour le rapport final, n'oubliez pas d'inclure des captures d'écran :
+Voir le rapport :
 - Interface MLflow montrant les différentes expériences
 - Test de l'API avec un exemple de requête/réponse
 - Interface Streamlit avec un exemple de prédiction réussie
